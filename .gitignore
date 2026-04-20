@@ -1,0 +1,54 @@
+# =========================
+# OS / System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Katalon Settings (local)
+# =========================
+.settings/
+.project
+.classpath
+
+# =========================
+# Build & Temp Files
+# =========================
+bin/
+Libs/
+tmp/
+temp/
+build/
+out/
+
+# =========================
+# Logs & Reports
+# =========================
+Reports/
+report/
+*.log
+
+# =========================
+# Execution Files
+# =========================
+*.rs
+*.tc
+*.ts
+*.prj
+
+# =========================
+# WebDriver / Browser Cache
+# =========================
+Drivers/
+*.exe
+
+# =========================
+# Test Data (optional - kalau sensitif)
+# =========================
+# Data Files/
+
+# =========================
+# IDE (Optional)
+# =========================
+.vscode/
+.idea/
